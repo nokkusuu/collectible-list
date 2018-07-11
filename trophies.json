@@ -1,8 +1,10 @@
 [
   {
-    "id": "trophy_gaiden_sakamoto",
-    "friendlyName": "Sakamoto",
-    "desc": "Sakamoto is a cat.",
-    "imgUrl": "URLTOSAKAMOTOGOESHERE"
+    "id": "trophy_waluigi",
+    "type": "amiibo"
+    "friendlyName": "Waluigi",
+    "desc": "wah",
+    "imgUrl": "",
+    "rarity": 10
   },
 ]
