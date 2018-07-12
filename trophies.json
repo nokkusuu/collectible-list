@@ -7,4 +7,12 @@
     "imgUrl": "",
     "rarity": 10
   },
+  {
+    "id": "art_blessednano",
+    "type": "art",
+    "friendlyName": "Blessed Artwork",
+    "desc": "Artist: cookiiecats (DeviantArt) | `*lesbians*`",
+    "imgUrl": "https://orig00.deviantart.net/5580/f/2018/178/2/5/_lesbians__by_cookiiecats-dcfm0vi.png",
+    "rarity": 3
+  },
 ]
