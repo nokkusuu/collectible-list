@@ -47,4 +47,12 @@
     "imgUrl": "https://cdn.discordapp.com/attachments/389567762143379458/400781271883841547/1508196969537.png",
     "rarity": 3
   },
+  {
+    "id": "shitpost_license",
+    "type": "shitpost",
+    "friendlyName": "license for selling drugs",
+    "desc": "okie dokie",
+    "imgUrl": "https://media.discordapp.net/attachments/443528869362925568/469548662595518464/unknown.png",
+    "rarity": 4
+  },
 ]
