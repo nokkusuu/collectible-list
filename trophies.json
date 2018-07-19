@@ -23,4 +23,36 @@
     "imgUrl": "https://i.ytimg.com/vi/KJwr1N5-VVM/hqdefault.jpg",
     "rarity": 3
   },
+  {
+    "id": "shitpost_coachz",
+    "type": "shitpost",
+    "friendlyName": "corch d",
+    "desc": "he took hte ** j o  r   b**",
+    "imgUrl": "https://cdn.drawception.com/images/panels/2012/12-28/cgHTZqrgLS-2.png",
+    "rarity": 3
+  },
+  {
+    "id": "shitpost_malleogun",
+    "type": "shitpost",
+    "friendlyName": "malleo",
+    "desc": "the ultimate delet you :b:elet",
+    "imgUrl": "https://orig00.deviantart.net/86d4/f/2017/273/5/b/smg4_mario_shotgun_by_forceofnatureandcorn-dbp3b9b.jpg",
+    "rarity": 3
+  },
+  {
+    "id": "shitpost_ddlcage",
+    "type": "shitpost",
+    "friendlyName": "proof that natsuki is 18 you sick fuck",
+    "desc": "congratulations",
+    "imgUrl": "https://cdn.discordapp.com/attachments/389567762143379458/400781271883841547/1508196969537.png",
+    "rarity": 3
+  },
+  {
+    "id": "shitpost_license",
+    "type": "shitpost",
+    "friendlyName": "license for selling drugs",
+    "desc": "okie dokie",
+    "imgUrl": "https://media.discordapp.net/attachments/443528869362925568/469548662595518464/unknown.png",
+    "rarity": 4
+  },
 ]
