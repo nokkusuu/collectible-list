@@ -13,46 +13,70 @@
     "friendlyName": "Blessed Artwork",
     "desc": "Artist: cookiiecats (DeviantArt) | `*lesbians*`",
     "imgUrl": "https://orig00.deviantart.net/5580/f/2018/178/2/5/_lesbians__by_cookiiecats-dcfm0vi.png",
-    "rarity": 3
+    "rarity": 2
   },
   {
-    "id": "dear_pesky_plumbers",
-    "type": "shitpost",
+    "id": "shirtpost_dearpeskyplumbers",
+    "type": "shirtpost",
     "friendlyName": "I T ' S  F R O M  B O W S E R",
     "desc": "Dear pesky plumbers, the Koopalings and I have taken over the Mushroom Kingdom! The princess is now a permanent guest at one of my seven Koopa Hotels. I dare you to find her if you can!",
     "imgUrl": "https://i.ytimg.com/vi/KJwr1N5-VVM/hqdefault.jpg",
-    "rarity": 3
+    "rarity": 4
   },
   {
-    "id": "shitpost_coachz",
-    "type": "shitpost",
+    "id": "shirtpost_coachz",
+    "type": "shirtpost",
     "friendlyName": "corch d",
     "desc": "he took hte ** j o  r   b**",
     "imgUrl": "https://cdn.drawception.com/images/panels/2012/12-28/cgHTZqrgLS-2.png",
-    "rarity": 3
+    "rarity": 2
   },
   {
-    "id": "shitpost_malleogun",
-    "type": "shitpost",
+    "id": "shirtpost_malleogun",
+    "type": "shirtpost",
     "friendlyName": "malleo",
     "desc": "the ultimate delet you :b:elet",
     "imgUrl": "https://orig00.deviantart.net/86d4/f/2017/273/5/b/smg4_mario_shotgun_by_forceofnatureandcorn-dbp3b9b.jpg",
     "rarity": 3
   },
   {
-    "id": "shitpost_ddlcage",
-    "type": "shitpost",
-    "friendlyName": "proof that natsuki is 18 you sick fuck",
+    "id": "shirtpost_ddlcage",
+    "type": "shirtpost",
+    "friendlyName": "proof that natsuki is 18",
     "desc": "congratulations",
     "imgUrl": "https://cdn.discordapp.com/attachments/389567762143379458/400781271883841547/1508196969537.png",
-    "rarity": 3
+    "rarity": 5
   },
   {
-    "id": "shitpost_license",
-    "type": "shitpost",
+    "id": "shirtpost_license",
+    "type": "shritpost",
     "friendlyName": "license for selling drugs",
     "desc": "okie dokie",
     "imgUrl": "https://media.discordapp.net/attachments/443528869362925568/469548662595518464/unknown.png",
     "rarity": 4
   },
+  {
+    "id": "shirtpost_doubtinspanish",
+    "type": "shirtpost",
+    "friendlyName": "doubt in spanish",
+    "desc": "im dan dirty",
+    "imgUrl": "https://media.discordapp.net/attachments/477925943785160704/478635337078276097/unknown.png",
+    "rarity": 3
+  },
+  {
+    "id": "shirtpost_nou",
+    "type": "shirtpost",
+    "friendlyName": "no u",
+    "desc": "reverses gay for 10 messages",
+    "imgUrl": "https://media.discordapp.net/attachments/477925943785160704/478638601081585666/unknown.png",
+    "rarity": 5
+  },
+  {
+    "id": "shirtpost_forklift",
+    "type": "shirtpost",
+    "friendlyName": "forklift doing math calculations",
+    "desc": "fork these calculations too hard >:(",
+    "imgUrl": "https://media.discordapp.net/attachments/477925943785160704/478638023240581130/unknown.png",
+    "rarity": 3
+  }
 ]
